@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shears",
+            "data": 10
+        },
+        "title": "Body Upgrade V",
+        "description": "Permanently grants §eHaste II§r",
+        "frame": "challenge",
+        "announce_to_chat": false
+    },
+    "parent": "body:body_4",
+    "criteria": {
+        "upgrade": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shears",
+            "data": 9
+        },
+        "title": "Health Boost V",
+        "description": "Permanently grants §cHealth Boost V§r",
+        "frame": "challenge",
+        "announce_to_chat": false
+    },
+    "parent": "body:health_4",
+    "criteria": {
+        "upgrade": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

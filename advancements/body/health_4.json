@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shears",
+            "data": 9
+        },
+        "title": "Health Boost IV",
+        "description": "Permanently grants §cHealth Boost IV§r",
+        "announce_to_chat": false
+    },
+    "parent": "body:health_3",
+    "criteria": {
+        "upgrade": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

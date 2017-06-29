@@ -1,0 +1,18 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shears",
+            "data": 11
+        },
+        "title": "Regeneration Upgrade II",
+        "description": "Permanently grants §dRegeneration II§r",
+        "frame": "challenge",
+        "announce_to_chat": false
+    },
+    "parent": "body:regen_1",
+    "criteria": {
+        "upgrade": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

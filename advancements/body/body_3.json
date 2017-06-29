@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shears",
+            "data": 10
+        },
+        "title": "Body Upgrade III",
+        "description": "Permanently grants §9Speed I§r",
+        "announce_to_chat": false
+    },
+    "parent": "body:body_2",
+    "criteria": {
+        "upgrade": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

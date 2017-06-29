@@ -1,0 +1,17 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shears",
+            "data": 10
+        },
+        "title": "Body Upgrade IV",
+        "description": "Permanently grants §bJump Boost II§r",
+        "announce_to_chat": false
+    },
+    "parent": "body:body_3",
+    "criteria": {
+        "upgrade": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

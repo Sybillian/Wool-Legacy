@@ -1,0 +1,20 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:shears",
+            "data": 12
+        },
+        "title": "Character Upgrades",
+        "description": "Buy these upgrades at the Shop!",
+        "background": "minecraft:textures/gui/advancement_bg.png",
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "join": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "rewards": {
+        "function": "player:join"
+    }
+}
